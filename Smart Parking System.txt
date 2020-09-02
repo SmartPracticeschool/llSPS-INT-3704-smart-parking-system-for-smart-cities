@@ -1,0 +1,16 @@
+IBM Cloud API Key : Zqo1gUZyiQ3bWxuG2f8RS6BDwaiJxAEjRHNTl-Xz83zv
+
+IBM Watson IoT Platform
+Device Credentials
+Organisation ID : OOugak
+Device Type : NodeMCU
+Device ID : mcu123
+Authentication Method : use-token-auth
+Authentication Token : use-token-auth
+
+API Key : a-00ugak-gazlm2ag6p
+Authentication Token : S*vJgT?QggsXVHP63t
+
+a5a248dc6221aacf25b7145ba2292da824fb05b1
+https://jp-tok.git.cloud.ibm.com/bharadwajkarthik44/iot-platform-bluemix-starter-20200901154341906.git
+git@jp-tok.git.cloud.ibm.com:bharadwajkarthik44/iot-platform-bluemix-starter-20200901154341906.git
